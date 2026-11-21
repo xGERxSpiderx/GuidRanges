@@ -100,6 +100,7 @@ If you do not publish mods, but want to have some safe GUIDs to use for personal
 | neltymind/Nils  | 1.900.010.000 | 1.900.019.999 |
 | zakraffy        | 1.900.050.000 | 1.900.051.000 |
 | Fridhmyr        | 1.900.100.000 | 1.900.200.000 |
+| xGERxSpiderx    | 1.903.250.000 | 1.903.259.999 |
 | Tisogno         | 1.957.000.000 | 1.957.999.999 |
 | Incipium        | 1.998.000.000 | 1.998.999.999 |
 | Taludas         | 1.999.000.000 | 1.999.999.999 |
